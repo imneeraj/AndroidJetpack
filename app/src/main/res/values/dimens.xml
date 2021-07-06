@@ -1,0 +1,19 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_card_view">10dp</dimen>
+    <dimen name="bottom_margin_views">10dp</dimen>
+    <dimen name="card_elevation">8dp</dimen>
+    <dimen name="padding_views">16dp</dimen>
+    <dimen name="top_margin_views">10dp</dimen>
+    <dimen name="job_title_size_list">18dp</dimen>
+    <dimen name="top_margin_views_listing">8dp</dimen>
+    <dimen name="job_company_size_list">16sp</dimen>
+    <dimen name="padding_drawable">8dp</dimen>
+    <dimen name="job_extra_size_list">14sp</dimen>
+    <dimen name="size_large_text_titles">20sp</dimen>
+    <dimen name="size_regular_text">18sp</dimen>
+    <dimen name="size_small_text">14sp</dimen>
+    <dimen name="padding_button">10dp</dimen>
+    <dimen name="card_radius">10dp</dimen>
+    <dimen name="size_extra_small_text">12sp</dimen>
+</resources>
